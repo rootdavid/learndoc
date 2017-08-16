@@ -34,3 +34,5 @@
 })(window)
 
 ```
+#### jQuery传入值及和得到的返回值总结
+![img](http://wx4.sinaimg.cn/mw690/c04dd7a1gy1filnpsxfp0j20jw0de0wb.jpg)
